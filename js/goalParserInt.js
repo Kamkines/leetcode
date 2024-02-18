@@ -3,5 +3,5 @@ var interpret = function (command) {
 };
 
 // example
-let command = "(al)G(al)()()G";
+let command = "G()()(al)";
 interpret(command);
